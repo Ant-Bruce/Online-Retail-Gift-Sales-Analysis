@@ -1,0 +1,398 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,AmountSpent,Month,DayOfWeek,Hour
+536365,85123A,white hanging heart t-light holder,6,2010-12-01 08:26:00,2.55,17850,United Kingdom,15.299999999999999,12,2,8
+536365,71053,white metal lantern,6,2010-12-01 08:26:00,3.39,17850,United Kingdom,20.34,12,2,8
+536365,84406B,cream cupid hearts coat hanger,8,2010-12-01 08:26:00,2.75,17850,United Kingdom,22.0,12,2,8
+536365,84029G,knitted union flag hot water bottle,6,2010-12-01 08:26:00,3.39,17850,United Kingdom,20.34,12,2,8
+536365,84029E,red woolly hottie white heart.,6,2010-12-01 08:26:00,3.39,17850,United Kingdom,20.34,12,2,8
+536365,22752,set 7 babushka nesting boxes,2,2010-12-01 08:26:00,7.65,17850,United Kingdom,15.3,12,2,8
+536365,21730,glass star frosted t-light holder,6,2010-12-01 08:26:00,4.25,17850,United Kingdom,25.5,12,2,8
+536370,22728,alarm clock bakelike pink,24,2010-12-01 08:45:00,3.75,12583,France,90.0,12,2,8
+536370,22727,alarm clock bakelike red ,24,2010-12-01 08:45:00,3.75,12583,France,90.0,12,2,8
+536370,22726,alarm clock bakelike green,12,2010-12-01 08:45:00,3.75,12583,France,45.0,12,2,8
+536370,21724,panda and bunnies sticker sheet,12,2010-12-01 08:45:00,0.85,12583,France,10.2,12,2,8
+536370,21883,stars gift tape ,24,2010-12-01 08:45:00,0.65,12583,France,15.600000000000001,12,2,8
+536370,10002,inflatable political globe ,48,2010-12-01 08:45:00,0.85,12583,France,40.8,12,2,8
+536370,21791,vintage heads and tails card game ,24,2010-12-01 08:45:00,1.25,12583,France,30.0,12,2,8
+536370,21035,set/2 red retrospot tea towels ,18,2010-12-01 08:45:00,2.95,12583,France,53.1,12,2,8
+536370,22326,round snack boxes set of4 woodland ,24,2010-12-01 08:45:00,2.95,12583,France,70.80000000000001,12,2,8
+536370,22629,spaceboy lunch box ,24,2010-12-01 08:45:00,1.95,12583,France,46.8,12,2,8
+536370,22659,lunch box i love london,24,2010-12-01 08:45:00,1.95,12583,France,46.8,12,2,8
+536370,22631,circus parade lunch box ,24,2010-12-01 08:45:00,1.95,12583,France,46.8,12,2,8
+536370,22661,charlotte bag dolly girl design,20,2010-12-01 08:45:00,0.85,12583,France,17.0,12,2,8
+536382,22783,set 3 wicker oval baskets w lids,4,2010-12-01 09:45:00,16.95,16098,United Kingdom,67.8,12,2,9
+C536383,35004C,set of 3 coloured  flying ducks,-1,2010-12-01 09:49:00,4.65,15311,United Kingdom,-4.65,12,2,9
+536384,82484,wood black board ant white finish,3,2010-12-01 09:53:00,6.45,18074,United Kingdom,19.35,12,2,9
+536384,84755,colour glass t-light holder hanging,48,2010-12-01 09:53:00,0.65,18074,United Kingdom,31.200000000000003,12,2,9
+536382,22783,set 3 wicker oval baskets w lids,4,2010-12-01 09:45:00,16.95,16098,United Kingdom,67.8,12,2,9
+C536383,35004C,set of 3 coloured  flying ducks,-1,2010-12-01 09:49:00,4.65,15311,United Kingdom,-4.65,12,2,9
+536384,82484,wood black board ant white finish,3,2010-12-01 09:53:00,6.45,18074,United Kingdom,19.35,12,2,9
+536384,84755,colour glass t-light holder hanging,48,2010-12-01 09:53:00,0.65,18074,United Kingdom,31.200000000000003,12,2,9
+536389,35004G,set of 3 gold flying ducks,4,2010-12-01 10:03:00,6.35,12431,Australia,25.4,12,2,10
+536389,85014B,red retrospot umbrella,6,2010-12-01 10:03:00,5.95,12431,Australia,35.7,12,2,10
+536389,85014A,black/blue polkadot umbrella,3,2010-12-01 10:03:00,5.95,12431,Australia,17.85,12,2,10
+536527,84945,multi colour silver t-light holder,12,2010-12-01 13:04:00,0.85,12662,Germany,10.2,12,2,13
+536527,22242,5 hook hanger magic toadstool,12,2010-12-01 13:04:00,1.65,12662,Germany,19.799999999999997,12,2,13
+536527,22244,3 hook hanger magic garden,12,2010-12-01 13:04:00,1.95,12662,Germany,23.4,12,2,13
+536527,22243,5 hook hanger red magic toadstool,12,2010-12-01 13:04:00,1.65,12662,Germany,19.799999999999997,12,2,13
+536527,47421,assorted colour lizard suction hook,24,2010-12-01 13:04:00,0.42,12662,Germany,10.08,12,2,13
+536527,20712,jumbo bag woodland animals,10,2010-12-01 13:04:00,1.95,12662,Germany,19.5,12,2,13
+536533,22680,french blue metal door sign 5,20,2010-12-01 13:31:00,1.25,16955,United Kingdom,25.0,12,2,13
+536533,22797,chest of drawers gingham heart ,3,2010-12-01 13:31:00,16.95,16955,United Kingdom,50.849999999999994,12,2,13
+536533,21843,red retrospot cake stand,1,2010-12-01 13:31:00,10.95,16955,United Kingdom,10.95,12,2,13
+536534,22866,hand warmer scotty dog design,12,2010-12-01 13:33:00,2.1,15350,United Kingdom,25.200000000000003,12,2,13
+536534,22834,hand warmer babushka design,12,2010-12-01 13:33:00,2.1,15350,United Kingdom,25.200000000000003,12,2,13
+536591,21484,chick grey hot water bottle,2,2010-12-01 16:58:00,3.45,14606,United Kingdom,6.9,12,2,16
+536591,22357,kings choice biscuit tin,1,2010-12-01 16:58:00,4.25,14606,United Kingdom,4.25,12,2,16
+536591,21985,pack of 12 hearts design tissues ,4,2010-12-01 16:58:00,0.29,14606,United Kingdom,1.16,12,2,16
+536595,22524,childrens garden gloves blue,1,2010-12-01 17:24:00,1.25,13576,United Kingdom,1.25,12,2,17
+536595,20765,chrysanthemum sketchbook ,2,2010-12-01 17:24:00,3.75,13576,United Kingdom,7.5,12,2,17
+536621,21791,vintage heads and tails card game ,36,2010-12-02 10:35:00,1.25,13108,United Kingdom,45.0,12,3,10
+536621,22491,pack of 12 coloured pencils,24,2010-12-02 10:35:00,0.85,13108,United Kingdom,20.4,12,3,10
+C536622,22752,set 7 babushka nesting boxes,-2,2010-12-02 10:37:00,8.5,12471,Germany,-17.0,12,3,10
+536623,21355,toast its - i love you ,24,2010-12-02 10:39:00,1.25,15601,United Kingdom,30.0,12,3,10
+536623,21756,bath building block word,6,2010-12-02 10:39:00,5.95,15601,United Kingdom,35.7,12,3,10
+537041,22193,red diner wall clock,1,2010-12-05 10:36:00,8.5,16033,United Kingdom,8.5,12,6,10
+537041,35810B,enamel blue rim coffee container,1,2010-12-05 10:36:00,2.1,16033,United Kingdom,2.1,12,6,10
+537041,35241,enamel blue rim biscuit bin,1,2010-12-05 10:36:00,4.95,16033,United Kingdom,4.95,12,6,10
+537042,22969,homemade jam scented candles,12,2010-12-05 10:45:00,1.45,13838,United Kingdom,17.4,12,6,10
+537042,21756,bath building block word,2,2010-12-05 10:45:00,5.95,13838,United Kingdom,11.9,12,6,10
+537042,21260,first aid tin,1,2010-12-05 10:45:00,3.25,13838,United Kingdom,3.25,12,6,10
+C537530,21527,red retrospot traditional teapot ,-1,2010-12-07 11:47:00,7.95,13319,United Kingdom,-7.95,12,1,11
+C537530,85047,white beaded garland string 20light,-2,2010-12-07 11:47:00,6.35,13319,United Kingdom,-12.7,12,1,11
+C537530,22726,alarm clock bakelike green,-2,2010-12-07 11:47:00,3.75,13319,United Kingdom,-7.5,12,1,11
+C537602,22654,deluxe sewing kit ,-1,2010-12-07 12:45:00,4.95,17511,United Kingdom,-4.95,12,1,12
+C537602,85123A,white hanging heart t-light holder,-1,2010-12-07 12:45:00,2.55,17511,United Kingdom,-2.55,12,1,12
+537603,22178,victorian glass hanging t-light,24,2010-12-07 12:49:00,1.25,14673,United Kingdom,30.0,12,1,12
+537603,85062,pearl crystal pumpkin t-light hldr,24,2010-12-07 12:49:00,1.65,14673,United Kingdom,39.599999999999994,12,1,12
+537603,21651,hanging glass etched tealight,12,2010-12-07 12:49:00,1.65,14673,United Kingdom,19.799999999999997,12,1,12
+537773,20726,lunch bag woodland,2,2010-12-08 12:36:00,1.65,16016,United Kingdom,3.3,12,2,12
+537773,15056N,edwardian parasol natural,2,2010-12-08 12:36:00,5.95,16016,United Kingdom,11.9,12,2,12
+537773,22926,ivory giant garden thermometer,1,2010-12-08 12:36:00,5.95,16016,United Kingdom,5.95,12,2,12
+537773,22469,heart of wicker small,4,2010-12-08 12:36:00,1.65,16016,United Kingdom,6.6,12,2,12
+537773,21991,bohemian collage stationery set,1,2010-12-08 12:36:00,2.95,16016,United Kingdom,2.95,12,2,12
+537891,22937,baking mould chocolate cup cakes,6,2010-12-09 10:05:00,2.55,13319,United Kingdom,15.299999999999999,12,3,10
+537891,22931,baking mould heart white chocolate,6,2010-12-09 10:05:00,2.55,13319,United Kingdom,15.299999999999999,12,3,10
+537891,22930,baking mould heart milk chocolate,6,2010-12-09 10:05:00,2.55,13319,United Kingdom,15.299999999999999,12,3,10
+537892,POST,postage,1,2010-12-09 10:13:00,18.0,12481,Germany,18.0,12,3,10
+537892,22468,babushka lights string of 10,2,2010-12-09 10:13:00,6.75,12481,Germany,13.5,12,3,10
+537892,22636,childs breakfast set circus parade,2,2010-12-09 10:13:00,8.5,12481,Germany,17.0,12,3,10
+537892,21918,set 12 kids colour  chalk sticks,24,2010-12-09 10:13:00,0.42,12481,Germany,10.08,12,3,10
+537901,20749,assorted colour mini cases,12,2010-12-09 10:48:00,6.35,13854,United Kingdom,76.19999999999999,12,3,10
+537901,22469,heart of wicker small,40,2010-12-09 10:48:00,1.45,13854,United Kingdom,58.0,12,3,10
+537915,21891,traditional wooden skipping rope,12,2010-12-09 10:55:00,1.25,12797,Portugal,15.0,12,3,10
+537915,21892,traditional wooden catch cup game ,12,2010-12-09 10:55:00,1.25,12797,Portugal,15.0,12,3,10
+537915,22623,box of vintage jigsaw blocks ,3,2010-12-09 10:55:00,4.95,12797,Portugal,14.850000000000001,12,3,10
+537915,22622,box of vintage alphabet blocks,2,2010-12-09 10:55:00,9.95,12797,Portugal,19.9,12,3,10
+537967,21843,red retrospot cake stand,2,2010-12-09 11:31:00,10.95,12494,France,21.9,12,3,11
+537967,22667,recipe box retrospot ,6,2010-12-09 11:31:00,2.95,12494,France,17.700000000000003,12,3,11
+537981,22536,magic drawing slate purdey,400,2010-12-09 11:35:00,0.36,17857,United Kingdom,144.0,12,3,11
+537981,21190,pink hearts paper garland,110,2010-12-09 11:35:00,1.45,17857,United Kingdom,159.5,12,3,11
+537995,22173,metal 4 hook hanger french chateau,8,2010-12-09 11:39:00,2.95,12712,Germany,23.6,12,3,11
+538002,22688,doormat peace on earth blue,2,2010-12-09 11:48:00,7.95,14932,Channel Islands,15.9,12,3,11
+538002,48138,doormat union flag,2,2010-12-09 11:48:00,7.95,14932,Channel Islands,15.9,12,3,11
+538002,C2,carriage,1,2010-12-09 11:48:00,50.0,14932,Channel Islands,50.0,12,3,11
+538003,22847,bread bin diner style ivory,8,2010-12-09 12:05:00,14.95,12429,Denmark,119.6,12,3,12
+538003,22779,wooden owls light garland ,48,2010-12-09 12:05:00,3.75,12429,Denmark,180.0,12,3,12
+538008,21122,set/10 pink polkadot party candles,24,2010-12-09 12:17:00,1.25,12683,France,30.0,12,3,12
+538008,POST,postage,5,2010-12-09 12:17:00,18.0,12683,France,90.0,12,3,12
+538009,22112,chocolate hot water bottle,6,2010-12-09 12:17:00,4.95,14911,EIRE,29.700000000000003,12,3,12
+538009,22835,hot water bottle i am so poorly,4,2010-12-09 12:17:00,4.65,14911,EIRE,18.6,12,3,12
+538009,22114,hot water bottle tea and sympathy,8,2010-12-09 12:17:00,3.95,14911,EIRE,31.6,12,3,12
+538397,21507,"elephant, birthday card, ",72,2010-12-12 11:44:00,0.36,12753,Japan,25.919999999999998,12,6,11
+538397,22025,ring of roses birthday card,72,2010-12-12 11:44:00,0.36,12753,Japan,25.919999999999998,12,6,11
+538397,22028,penny farthing birthday card,72,2010-12-12 11:44:00,0.36,12753,Japan,25.919999999999998,12,6,11
+538397,22718,card cat and tree ,72,2010-12-12 11:44:00,0.36,12753,Japan,25.919999999999998,12,6,11
+538714,22077,6 ribbons rustic charm,4,2010-12-14 11:01:00,1.65,14524,United Kingdom,6.6,12,1,11
+538714,85049D,bright blues ribbons ,4,2010-12-14 11:01:00,1.25,14524,United Kingdom,5.0,12,1,11
+538714,85049E,scandinavian reds ribbons,2,2010-12-14 11:01:00,1.25,14524,United Kingdom,2.5,12,1,11
+538714,85049G,chocolate box ribbons ,2,2010-12-14 11:01:00,1.25,14524,United Kingdom,2.5,12,1,11
+538714,21181,please one person metal sign,6,2010-12-14 11:01:00,2.1,14524,United Kingdom,12.600000000000001,12,1,11
+538951,22423,regency cakestand 3 tier,3,2010-12-15 11:26:00,12.75,16782,United Kingdom,38.25,12,2,11
+538951,22428,enamel fire bucket cream,1,2010-12-15 11:26:00,6.95,16782,United Kingdom,6.95,12,2,11
+538951,22348,tea bag plate red retrospot,1,2010-12-15 11:26:00,0.85,16782,United Kingdom,0.85,12,2,11
+538951,21755,love building block word,1,2010-12-15 11:26:00,5.95,16782,United Kingdom,5.95,12,2,11
+538951,21754,home building block word,1,2010-12-15 11:26:00,5.95,16782,United Kingdom,5.95,12,2,11
+538951,22382,lunch bag spaceboy design ,1,2010-12-15 11:26:00,1.65,16782,United Kingdom,1.65,12,2,11
+538951,20726,lunch bag woodland,1,2010-12-15 11:26:00,1.65,16782,United Kingdom,1.65,12,2,11
+538951,22470,heart of wicker large,1,2010-12-15 11:26:00,2.95,16782,United Kingdom,2.95,12,2,11
+538951,21466,red flower crochet food cover,2,2010-12-15 11:26:00,3.75,16782,United Kingdom,7.5,12,2,11
+538951,22699,roses regency teacup and saucer ,3,2010-12-15 11:26:00,2.95,16782,United Kingdom,8.850000000000001,12,2,11
+539118,22555,plasters in tin strongman,5,2010-12-16 11:27:00,1.65,15563,United Kingdom,8.25,12,3,11
+539118,21495,skulls and crossbones wrap,25,2010-12-16 11:27:00,0.42,15563,United Kingdom,10.5,12,3,11
+539118,22049,wrap christmas screen print,25,2010-12-16 11:27:00,0.42,15563,United Kingdom,10.5,12,3,11
+539118,21830,assorted creepy crawlies,24,2010-12-16 11:27:00,0.42,15563,United Kingdom,10.08,12,3,11
+539118,84077,world war 2 gliders asstd designs,48,2010-12-16 11:27:00,0.29,15563,United Kingdom,13.919999999999998,12,3,11
+539118,22970,london bus coffee mug,6,2010-12-16 11:27:00,2.55,15563,United Kingdom,15.299999999999999,12,3,11
+539118,22971,queens guard coffee mug,6,2010-12-16 11:27:00,2.55,15563,United Kingdom,15.299999999999999,12,3,11
+539118,22748,poppy's playhouse kitchen,3,2010-12-16 11:27:00,2.1,15563,United Kingdom,6.300000000000001,12,3,11
+539374,22624,ivory kitchen scales,2,2010-12-17 11:40:00,8.5,14769,United Kingdom,17.0,12,4,11
+539374,22558,clothes pegs retrospot pack 24 ,12,2010-12-17 11:40:00,1.49,14769,United Kingdom,17.88,12,4,11
+539374,21908,chocolate this way metal sign,12,2010-12-17 11:40:00,2.1,14769,United Kingdom,25.200000000000003,12,4,11
+539374,22178,victorian glass hanging t-light,12,2010-12-17 11:40:00,1.25,14769,United Kingdom,15.0,12,4,11
+539374,71459,hanging jam jar t-light holder,12,2010-12-17 11:40:00,0.85,14769,United Kingdom,10.2,12,4,11
+539374,84755,colour glass t-light holder hanging,16,2010-12-17 11:40:00,0.65,14769,United Kingdom,10.4,12,4,11
+539374,22862,love heart napkin box ,4,2010-12-17 11:40:00,4.25,14769,United Kingdom,17.0,12,4,11
+539374,22795,sweetheart recipe book stand,2,2010-12-17 11:40:00,6.75,14769,United Kingdom,13.5,12,4,11
+539374,82484,wood black board ant white finish,3,2010-12-17 11:40:00,6.45,14769,United Kingdom,19.35,12,4,11
+539374,82486,wood s/3 cabinet ant white finish,2,2010-12-17 11:40:00,7.95,14769,United Kingdom,15.9,12,4,11
+539468,82483,wood 2 drawer cabinet white finish,10,2010-12-19 13:31:00,5.95,15044,United Kingdom,59.5,12,6,13
+539468,82486,wood s/3 cabinet ant white finish,8,2010-12-19 13:31:00,7.95,15044,United Kingdom,63.6,12,6,13
+539468,82482,wooden picture frame white finish,12,2010-12-19 13:31:00,2.55,15044,United Kingdom,30.599999999999998,12,6,13
+539468,82494L,wooden frame antique white ,12,2010-12-19 13:31:00,2.95,15044,United Kingdom,35.400000000000006,12,6,13
+539468,82484,wood black board ant white finish,6,2010-12-19 13:31:00,6.45,15044,United Kingdom,38.7,12,6,13
+539469,22862,love heart napkin box ,1,2010-12-19 13:59:00,4.25,17841,United Kingdom,4.25,12,6,13
+539469,22710,wrap i love london ,25,2010-12-19 13:59:00,0.42,17841,United Kingdom,10.5,12,6,13
+539469,21447,12 ivory rose peg place settings,1,2010-12-19 13:59:00,1.25,17841,United Kingdom,1.25,12,6,13
+539469,20961,strawberry bath sponge ,2,2010-12-19 13:59:00,1.25,17841,United Kingdom,2.5,12,6,13
+539469,20963,apple bath sponge,2,2010-12-19 13:59:00,1.25,17841,United Kingdom,2.5,12,6,13
+539725,21524,doormat spotty home sweet home,1,2010-12-21 13:58:00,7.95,17211,United Kingdom,7.95,12,1,13
+539725,48111,doormat 3 smiley cats,1,2010-12-21 13:58:00,7.95,17211,United Kingdom,7.95,12,1,13
+539725,48138,doormat union flag,1,2010-12-21 13:58:00,7.95,17211,United Kingdom,7.95,12,1,13
+539725,48187,doormat new england,1,2010-12-21 13:58:00,7.95,17211,United Kingdom,7.95,12,1,13
+539725,48188,doormat welcome puppies,1,2010-12-21 13:58:00,7.95,17211,United Kingdom,7.95,12,1,13
+C539726,22791,t-light glass fluted antique,-10,2010-12-21 14:24:00,1.25,17007,United Kingdom,-12.5,12,1,14
+539727,22933,baking mould easter egg milk choc,6,2010-12-21 14:26:00,2.95,12678,France,17.700000000000003,12,1,14
+539727,22934,baking mould easter egg white choc,6,2010-12-21 14:26:00,2.95,12678,France,17.700000000000003,12,1,14
+539727,22558,clothes pegs retrospot pack 24 ,12,2010-12-21 14:26:00,1.49,12678,France,17.88,12,1,14
+539727,POST,postage,1,2010-12-21 14:26:00,18.0,12678,France,18.0,12,1,14
+539728,22693,grow a flytrap or sunflower in tin,24,2010-12-21 14:26:00,1.25,16270,United Kingdom,30.0,12,1,14
+539837,22414,doormat neighbourhood witch ,2,2010-12-22 13:48:00,7.95,14532,United Kingdom,15.9,12,2,13
+C539838,22198,large popcorn holder ,-10,2010-12-22 13:59:00,1.65,13458,United Kingdom,-16.5,12,2,13
+539840,21121,set/10 red polkadot party candles,24,2010-12-22 14:28:00,1.25,12383,Belgium,30.0,12,2,14
+539840,21122,set/10 pink polkadot party candles,24,2010-12-22 14:28:00,1.25,12383,Belgium,30.0,12,2,14
+539840,21124,set/10 blue polkadot party candles,24,2010-12-22 14:28:00,1.25,12383,Belgium,30.0,12,2,14
+539840,21125,set 6 football celebration candles,12,2010-12-22 14:28:00,1.25,12383,Belgium,15.0,12,2,14
+539840,POST,postage,3,2010-12-22 14:28:00,15.0,12383,Belgium,45.0,12,2,14
+539865,82001S,vinyl record frame silver,24,2010-12-23 09:59:00,3.39,15587,United Kingdom,81.36,12,3,9
+539865,21137,black record cover frame,48,2010-12-23 09:59:00,3.39,15587,United Kingdom,162.72,12,3,9
+C539866,22636,childs breakfast set circus parade,-2,2010-12-23 10:20:00,7.65,12427,Germany,-15.3,12,3,10
+539867,85123A,white hanging heart t-light holder,6,2010-12-23 10:38:00,2.95,13922,United Kingdom,17.700000000000003,12,3,10
+539867,85184C,s/4 valentine decoupage heart box,24,2010-12-23 10:38:00,1.25,13922,United Kingdom,30.0,12,3,10
+540014,21564,pink  heart shape love bucket ,1,2011-01-04 11:34:00,2.95,14606,United Kingdom,2.95,1,1,11
+540014,85049B,lush greens ribbons,1,2011-01-04 11:34:00,1.25,14606,United Kingdom,1.25,1,1,11
+540014,85194L,hanging spring flower egg large,1,2011-01-04 11:34:00,0.85,14606,United Kingdom,0.85,1,1,11
+540014,85194L,hanging spring flower egg large,1,2011-01-04 11:34:00,0.85,14606,United Kingdom,0.85,1,1,11
+540014,22153,angel decoration stars on dress,1,2011-01-04 11:34:00,0.42,14606,United Kingdom,0.42,1,1,11
+540014,21947,set of 6 heart chopsticks,2,2011-01-04 11:34:00,1.25,14606,United Kingdom,2.5,1,1,11
+540014,22261,felt egg cosy white rabbit ,2,2011-01-04 11:34:00,0.85,14606,United Kingdom,1.7,1,1,11
+540014,22262,felt egg cosy chicken,6,2011-01-04 11:34:00,0.85,14606,United Kingdom,5.1,1,1,11
+540278,22791,t-light glass fluted antique,3,2011-01-06 12:31:00,1.25,15719,United Kingdom,3.75,1,3,12
+540278,21080,set/20 red retrospot paper napkins ,3,2011-01-06 12:31:00,0.85,15719,United Kingdom,2.55,1,3,12
+540278,20914,set/5 red retrospot lid glass bowls,1,2011-01-06 12:31:00,2.95,15719,United Kingdom,2.95,1,3,12
+540278,22629,spaceboy lunch box ,1,2011-01-06 12:31:00,1.95,15719,United Kingdom,1.95,1,3,12
+540278,21479,white skull hot water bottle ,2,2011-01-06 12:31:00,3.75,15719,United Kingdom,7.5,1,3,12
+540278,21484,chick grey hot water bottle,1,2011-01-06 12:31:00,3.45,15719,United Kingdom,3.45,1,3,12
+540278,84030E,english rose hot water bottle,1,2011-01-06 12:31:00,4.25,15719,United Kingdom,4.25,1,3,12
+540278,21481,fawn blue hot water bottle,2,2011-01-06 12:31:00,2.95,15719,United Kingdom,5.9,1,3,12
+540511,84879,assorted colour bird ornament,8,2011-01-09 11:34:00,1.69,14472,United Kingdom,13.52,1,6,11
+540511,21361,love large wood letters ,1,2011-01-09 11:34:00,12.75,14472,United Kingdom,12.75,1,6,11
+540511,22285,hanging hen on nest decoration,12,2011-01-09 11:34:00,1.65,14472,United Kingdom,19.799999999999997,1,6,11
+540511,22066,love heart trinket pot,2,2011-01-09 11:34:00,1.45,14472,United Kingdom,2.9,1,6,11
+540511,22784,lantern cream gazebo ,1,2011-01-09 11:34:00,4.95,14472,United Kingdom,4.95,1,6,11
+540511,22784,lantern cream gazebo ,1,2011-01-09 11:34:00,4.95,14472,United Kingdom,4.95,1,6,11
+540511,21175,gin + tonic diet metal sign,2,2011-01-09 11:34:00,2.1,14472,United Kingdom,4.2,1,6,11
+540511,21757,lighthouse printed metal sign,2,2011-01-09 11:34:00,4.95,14472,United Kingdom,9.9,1,6,11
+540511,22120,welcome  wooden block letters,1,2011-01-09 11:34:00,9.95,14472,United Kingdom,9.95,1,6,11
+540562,20725,lunch bag red retrospot,20,2011-01-10 10:35:00,1.65,12524,Germany,33.0,1,0,10
+540562,20728,lunch bag cars blue,10,2011-01-10 10:35:00,1.65,12524,Germany,16.5,1,0,10
+540562,22383,lunch bag suki  design ,20,2011-01-10 10:35:00,1.65,12524,Germany,33.0,1,0,10
+540562,84692,box of 24 cocktail parasols,100,2011-01-10 10:35:00,0.42,12524,Germany,42.0,1,0,10
+540562,22558,clothes pegs retrospot pack 24 ,12,2011-01-10 10:35:00,1.49,12524,Germany,17.88,1,0,10
+540562,POST,postage,3,2011-01-10 10:35:00,18.0,12524,Germany,54.0,1,0,10
+540563,21258,victorian sewing box large,16,2011-01-10 10:35:00,10.95,15100,United Kingdom,175.2,1,0,10
+540565,22088,paper bunting coloured lace,40,2011-01-10 10:44:00,2.55,16422,United Kingdom,102.0,1,0,10
+540566,M,manual,1,2011-01-10 10:58:00,6.7,17811,United Kingdom,6.7,1,0,10
+540566,22354,retrospot padded seat cushion,2,2011-01-10 10:58:00,3.75,17811,United Kingdom,7.5,1,0,10
+540779,21703,bag 125g swirly marbles,12,2011-01-11 11:18:00,0.42,15346,United Kingdom,5.04,1,1,11
+540779,22489,pack of 12 traditional crayons,24,2011-01-11 11:18:00,0.42,15346,United Kingdom,10.08,1,1,11
+540779,22491,pack of 12 coloured pencils,12,2011-01-11 11:18:00,0.85,15346,United Kingdom,10.2,1,1,11
+540779,21891,traditional wooden skipping rope,12,2011-01-11 11:18:00,1.25,15346,United Kingdom,15.0,1,1,11
+540779,21314,small glass heart trinket pot,8,2011-01-11 11:18:00,2.1,15346,United Kingdom,16.8,1,1,11
+540779,21485,retrospot heart hot water bottle,3,2011-01-11 11:18:00,4.95,15346,United Kingdom,14.850000000000001,1,1,11
+540779,84884A,ant white wire heart spiral,5,2011-01-11 11:18:00,3.95,15346,United Kingdom,19.75,1,1,11
+540779,22666,recipe box pantry yellow design,6,2011-01-11 11:18:00,2.95,15346,United Kingdom,17.700000000000003,1,1,11
+540779,22621,traditional knitting nancy,12,2011-01-11 11:18:00,1.45,15346,United Kingdom,17.4,1,1,11
+540779,22652,travel sewing kit,10,2011-01-11 11:18:00,1.65,15346,United Kingdom,16.5,1,1,11
+540785,84997D,pink 3 piece polkadot cutlery set,360,2011-01-11 11:39:00,3.39,12557,Spain,1220.4,1,1,11
+540785,84997C,blue 3 piece polkadot cutlery set,360,2011-01-11 11:39:00,3.39,12557,Spain,1220.4,1,1,11
+540785,84997A,green 3 piece polkadot cutlery set,144,2011-01-11 11:39:00,3.39,12557,Spain,488.16,1,1,11
+C540784,84766,silver rococo candle stick,-12,2011-01-11 11:39:00,1.95,13126,United Kingdom,-23.4,1,1,11
+C540786,22156,heart decoration with pearls ,-3,2011-01-11 11:42:00,0.85,15194,United Kingdom,-2.55,1,1,11
+540943,22189,cream heart card holder,2,2011-01-12 12:31:00,3.95,17841,United Kingdom,7.9,1,2,12
+540943,22188,black heart card holder,1,2011-01-12 12:31:00,3.95,17841,United Kingdom,3.95,1,2,12
+540943,21935,suki  shoulder bag,3,2011-01-12 12:31:00,1.65,17841,United Kingdom,4.949999999999999,1,2,12
+540943,21934,skull shoulder bag,5,2011-01-12 12:31:00,1.65,17841,United Kingdom,8.25,1,2,12
+540943,82001S,vinyl record frame silver,2,2011-01-12 12:31:00,3.75,17841,United Kingdom,7.5,1,2,12
+540943,21811,christmas hanging heart with bell,1,2011-01-12 12:31:00,1.25,17841,United Kingdom,1.25,1,2,12
+540943,20972,pink cream felt craft trinket box ,5,2011-01-12 12:31:00,1.25,17841,United Kingdom,6.25,1,2,12
+540943,22654,deluxe sewing kit ,1,2011-01-12 12:31:00,5.95,17841,United Kingdom,5.95,1,2,12
+540943,20668,disco ball christmas decoration,24,2011-01-12 12:31:00,0.12,17841,United Kingdom,2.88,1,2,12
+540943,21781,ma campagne cutlery box,1,2011-01-12 12:31:00,14.95,17841,United Kingdom,14.95,1,2,12
+540943,22661,charlotte bag dolly girl design,3,2011-01-12 12:31:00,0.85,17841,United Kingdom,2.55,1,2,12
+540946,82484,wood black board ant white finish,12,2011-01-12 12:43:00,5.55,12359,Cyprus,66.6,1,2,12
+540946,22423,regency cakestand 3 tier,6,2011-01-12 12:43:00,12.75,12359,Cyprus,76.5,1,2,12
+540946,20704,mr robot soft toy,8,2011-01-12 12:43:00,1.95,12359,Cyprus,15.6,1,2,12
+540946,82613B,"metal sign,cupcake single hook",20,2011-01-12 12:43:00,0.42,12359,Cyprus,8.4,1,2,12
+540946,85054,french enamel pot w lid,12,2011-01-12 12:43:00,1.25,12359,Cyprus,15.0,1,2,12
+540946,82613C,"metal sign,cupcake single hook",20,2011-01-12 12:43:00,0.42,12359,Cyprus,8.4,1,2,12
+541115,22310,ivory knitted mug cosy ,18,2011-01-13 15:34:00,1.65,12578,Italy,29.7,1,3,15
+541115,84828,jungle popsicles ice lolly holders,12,2011-01-13 15:34:00,1.25,12578,Italy,15.0,1,3,15
+541115,84380,set of 3 butterfly cookie cutters,24,2011-01-13 15:34:00,1.25,12578,Italy,30.0,1,3,15
+C541117,21258,victorian sewing box large,-3,2011-01-13 17:09:00,10.95,15100,United Kingdom,-32.849999999999994,1,3,17
+541119,21791,vintage heads and tails card game ,12,2011-01-14 08:16:00,1.25,16493,United Kingdom,15.0,1,4,8
+541119,21912,vintage snakes & ladders,4,2011-01-14 08:16:00,3.75,16493,United Kingdom,15.0,1,4,8
+541119,22087,paper bunting white lace,12,2011-01-14 08:16:00,2.95,16493,United Kingdom,35.400000000000006,1,4,8
+541119,84378,set of 3 heart cookie cutters,12,2011-01-14 08:16:00,1.25,16493,United Kingdom,15.0,1,4,8
+541119,21121,set/10 red polkadot party candles,24,2011-01-14 08:16:00,1.25,16493,United Kingdom,30.0,1,4,8
+541119,84988,set of 72 pink heart paper doilies,12,2011-01-14 08:16:00,1.45,16493,United Kingdom,17.4,1,4,8
+541120,21195,pink  honeycomb paper ball ,48,2011-01-14 09:13:00,0.65,12490,France,31.200000000000003,1,4,9
+541120,21880,red retrospot tape,24,2011-01-14 09:13:00,0.19,12490,France,4.5600000000000005,1,4,9
+541253,22470,heart of wicker large,1,2011-01-16 13:51:00,2.95,17841,United Kingdom,2.95,1,6,13
+541253,15060B,fairy cake design umbrella,1,2011-01-16 13:51:00,3.75,17841,United Kingdom,3.75,1,6,13
+541253,22852,dog bowl vintage cream,1,2011-01-16 13:51:00,4.25,17841,United Kingdom,4.25,1,6,13
+C541254,21667,glass cake cover and plate,-2,2011-01-16 13:53:00,14.95,17841,United Kingdom,-29.9,1,6,13
+541255,22862,love heart napkin box ,1,2011-01-16 13:54:00,4.25,17841,United Kingdom,4.25,1,6,13
+541256,22188,black heart card holder,2,2011-01-16 14:36:00,3.95,13048,United Kingdom,7.9,1,6,14
+541256,22189,cream heart card holder,6,2011-01-16 14:36:00,3.95,13048,United Kingdom,23.700000000000003,1,6,14
+541256,21535,red retrospot small milk jug,3,2011-01-16 14:36:00,2.55,13048,United Kingdom,7.6499999999999995,1,6,14
+541256,22637,piggy bank retrospot ,2,2011-01-16 14:36:00,2.55,13048,United Kingdom,5.1,1,6,14
+541256,21531,red retrospot sugar jam bowl,2,2011-01-16 14:36:00,2.55,13048,United Kingdom,5.1,1,6,14
+541256,22228,bunny wooden painted with bird ,12,2011-01-16 14:36:00,0.85,13048,United Kingdom,10.2,1,6,14
+541256,22457,natural slate heart chalkboard ,6,2011-01-16 14:36:00,2.95,13048,United Kingdom,17.700000000000003,1,6,14
+541256,22348,tea bag plate red retrospot,6,2011-01-16 14:36:00,0.85,13048,United Kingdom,5.1,1,6,14
+541425,84755,colour glass t-light holder hanging,144,2011-01-18 08:43:00,0.55,15513,United Kingdom,79.2,1,1,8
+541426,22823,chest natural wood 20 drawers,4,2011-01-18 08:44:00,110.0,18233,United Kingdom,440.0,1,1,8
+541427,48187,doormat new england,10,2011-01-18 08:46:00,6.75,17018,United Kingdom,67.5,1,1,8
+541427,22690,doormat home sweet home blue ,10,2011-01-18 08:46:00,6.75,17018,United Kingdom,67.5,1,1,8
+541427,21523,doormat fancy font home sweet home,10,2011-01-18 08:46:00,6.75,17018,United Kingdom,67.5,1,1,8
+541427,22692,doormat welcome to our home,10,2011-01-18 08:46:00,6.75,17018,United Kingdom,67.5,1,1,8
+541427,20685,doormat red retrospot,10,2011-01-18 08:46:00,6.75,17018,United Kingdom,67.5,1,1,8
+541427,48129,doormat topiary,10,2011-01-18 08:46:00,6.75,17018,United Kingdom,67.5,1,1,8
+541552,22684,french blue metal door sign 9,2,2011-01-19 11:15:00,1.25,15039,United Kingdom,2.5,1,2,11
+541552,22679,french blue metal door sign 4,1,2011-01-19 11:15:00,1.25,15039,United Kingdom,1.25,1,2,11
+541552,22683,french blue metal door sign 8,3,2011-01-19 11:15:00,1.25,15039,United Kingdom,3.75,1,2,11
+541552,22676,french blue metal door sign 1,1,2011-01-19 11:15:00,1.25,15039,United Kingdom,1.25,1,2,11
+541552,22775,purple drawerknob acrylic edwardian,2,2011-01-19 11:15:00,1.25,15039,United Kingdom,2.5,1,2,11
+541552,21975,pack of 60 dinosaur cake cases,1,2011-01-19 11:15:00,0.55,15039,United Kingdom,0.55,1,2,11
+541552,22267,easter decoration egg bunny ,1,2011-01-19 11:15:00,1.25,15039,United Kingdom,1.25,1,2,11
+541552,84992,72 sweetheart fairy cake cases,1,2011-01-19 11:15:00,0.55,15039,United Kingdom,0.55,1,2,11
+541552,21717,easter tin bucket,1,2011-01-19 11:15:00,2.55,15039,United Kingdom,2.55,1,2,11
+541684,82001S,vinyl record frame silver,4,2011-01-20 15:22:00,3.75,15498,United Kingdom,15.0,1,3,15
+541684,22041,"record frame 7"" single size ",6,2011-01-20 15:22:00,2.55,15498,United Kingdom,15.299999999999999,1,3,15
+541684,84406B,cream cupid hearts coat hanger,9,2011-01-20 15:22:00,3.25,15498,United Kingdom,29.25,1,3,15
+541684,22720,set of 3 cake tins pantry design ,4,2011-01-20 15:22:00,4.95,15498,United Kingdom,19.8,1,3,15
+541684,22721,set of 3 cake tins sketchbook,2,2011-01-20 15:22:00,4.95,15498,United Kingdom,9.9,1,3,15
+541684,22131,food container set 3 love heart ,7,2011-01-20 15:22:00,1.95,15498,United Kingdom,13.65,1,3,15
+541684,21272,salle de bain hook,12,2011-01-20 15:22:00,1.25,15498,United Kingdom,15.0,1,3,15
+541684,22961,jam making set printed,24,2011-01-20 15:22:00,1.45,15498,United Kingdom,34.8,1,3,15
+541684,22740,polkadot pen,48,2011-01-20 15:22:00,0.85,15498,United Kingdom,40.8,1,3,15
+541789,72802A,rose scent candle in jewelled box,6,2011-01-21 13:07:00,3.81,14088,United Kingdom,22.86,1,4,13
+541789,22847,bread bin diner style ivory,6,2011-01-21 13:07:00,14.95,14088,United Kingdom,89.69999999999999,1,4,13
+541789,22846,bread bin diner style red ,11,2011-01-21 13:07:00,14.95,14088,United Kingdom,164.45,1,4,13
+541789,21485,retrospot heart hot water bottle,18,2011-01-21 13:07:00,4.25,14088,United Kingdom,76.5,1,4,13
+541789,84032B,charlie + lola red hot water bottle,6,2011-01-21 13:07:00,2.55,14088,United Kingdom,15.299999999999999,1,4,13
+541789,84032A,charlie+lola pink hot water bottle,18,2011-01-21 13:07:00,2.55,14088,United Kingdom,45.9,1,4,13
+541789,21955,doormat union jack guns and roses,10,2011-01-21 13:07:00,6.75,14088,United Kingdom,67.5,1,4,13
+541789,48138,doormat union flag,20,2011-01-21 13:07:00,6.75,14088,United Kingdom,135.0,1,4,13
+541789,22073,red retrospot storage jar,28,2011-01-21 13:07:00,3.39,14088,United Kingdom,94.92,1,4,13
+541789,22070,small red retrospot mug in box ,6,2011-01-21 13:07:00,3.39,14088,United Kingdom,20.34,1,4,13
+541844,20983,12 pencils tall tube red retrospot,1,2011-01-23 12:19:00,0.85,16931,United Kingdom,0.85,1,6,12
+541844,20758,abstract circles pocket book,3,2011-01-23 12:19:00,0.85,16931,United Kingdom,2.55,1,6,12
+541844,20778,garden path notebook ,1,2011-01-23 12:19:00,1.65,16931,United Kingdom,1.65,1,6,12
+541844,21829,dinosaur keyrings assorted,36,2011-01-23 12:19:00,0.21,16931,United Kingdom,7.56,1,6,12
+541844,21733,red hanging heart t-light holder,3,2011-01-23 12:19:00,2.95,16931,United Kingdom,8.850000000000001,1,6,12
+541844,22804,candleholder pink hanging heart,3,2011-01-23 12:19:00,2.95,16931,United Kingdom,8.850000000000001,1,6,12
+541844,20832,red flock love heart photo frame,4,2011-01-23 12:19:00,0.85,16931,United Kingdom,3.4,1,6,12
+541844,22555,plasters in tin strongman,2,2011-01-23 12:19:00,1.65,16931,United Kingdom,3.3,1,6,12
+541844,22557,plasters in tin vintage paisley ,2,2011-01-23 12:19:00,1.65,16931,United Kingdom,3.3,1,6,12
+541844,22554,plasters in tin woodland animals,2,2011-01-23 12:19:00,1.65,16931,United Kingdom,3.3,1,6,12
+541844,22398,magnets pack of 4 swallows,3,2011-01-23 12:19:00,1.25,16931,United Kingdom,3.75,1,6,12
+541987,22740,polkadot pen,48,2011-01-24 16:05:00,0.85,14130,United Kingdom,40.8,1,0,16
+541987,21746,small red retrospot windmill,6,2011-01-24 16:05:00,1.25,14130,United Kingdom,7.5,1,0,16
+541987,21749,large red retrospot windmill,2,2011-01-24 16:05:00,2.1,14130,United Kingdom,4.2,1,0,16
+541987,85014B,red retrospot umbrella,2,2011-01-24 16:05:00,5.95,14130,United Kingdom,11.9,1,0,16
+541987,20685,doormat red retrospot,2,2011-01-24 16:05:00,7.95,14130,United Kingdom,15.9,1,0,16
+541987,22148,easter craft 4 chicks ,3,2011-01-24 16:05:00,1.95,14130,United Kingdom,5.85,1,0,16
+541987,22150,3 stripey mice feltcraft,3,2011-01-24 16:05:00,1.95,14130,United Kingdom,5.85,1,0,16
+541988,22383,lunch bag suki  design ,100,2011-01-25 08:03:00,1.45,15222,United Kingdom,145.0,1,1,8
+541988,22355,charlotte bag suki design,100,2011-01-25 08:03:00,0.72,15222,United Kingdom,72.0,1,1,8
+541988,21935,suki  shoulder bag,100,2011-01-25 08:03:00,1.45,15222,United Kingdom,145.0,1,1,8
+541988,21931,jumbo storage bag suki,100,2011-01-25 08:03:00,1.65,15222,United Kingdom,165.0,1,1,8
+541988,22469,heart of wicker small,40,2011-01-25 08:03:00,1.45,15222,United Kingdom,58.0,1,1,8
+541989,47566,party bunting,5,2011-01-25 08:21:00,4.65,13615,United Kingdom,23.25,1,1,8
+541989,22469,heart of wicker small,12,2011-01-25 08:21:00,1.65,13615,United Kingdom,19.799999999999997,1,1,8
+541989,22457,natural slate heart chalkboard ,6,2011-01-25 08:21:00,2.95,13615,United Kingdom,17.700000000000003,1,1,8
+542266,22912,yellow coat rack paris fashion,2,2011-01-26 17:37:00,4.95,16918,United Kingdom,9.9,1,2,17
+542266,22165,"diamante heart shaped wall mirror, ",2,2011-01-26 17:37:00,12.75,16918,United Kingdom,25.5,1,2,17
+542266,22167, oval wall mirror diamante ,1,2011-01-26 17:37:00,9.95,16918,United Kingdom,9.95,1,2,17
+542266,22652,travel sewing kit,4,2011-01-26 17:37:00,1.65,16918,United Kingdom,6.6,1,2,17
+542266,22654,deluxe sewing kit ,3,2011-01-26 17:37:00,5.95,16918,United Kingdom,17.85,1,2,17
+542266,22722,set of 6 spice tins pantry design,2,2011-01-26 17:37:00,3.95,16918,United Kingdom,7.9,1,2,17
+542267,22222,cake plate lovebird white,2,2011-01-26 17:43:00,4.95,16882,United Kingdom,9.9,1,2,17
+542268,22563,happy stencil craft,12,2011-01-27 08:30:00,1.25,15358,United Kingdom,15.0,1,3,8
+542268,85124B,blue juicy fruit photo frame,6,2011-01-27 08:30:00,2.55,15358,United Kingdom,15.299999999999999,1,3,8
+542268,85124C,green juicy fruit photo frame,6,2011-01-27 08:30:00,2.55,15358,United Kingdom,15.299999999999999,1,3,8
+542268,22568,feltcraft cushion owl,4,2011-01-27 08:30:00,3.75,15358,United Kingdom,15.0,1,3,8
+542268,20972,pink cream felt craft trinket box ,12,2011-01-27 08:30:00,1.25,15358,United Kingdom,15.0,1,3,8
+542268,20971,pink blue felt craft trinket box,12,2011-01-27 08:30:00,1.25,15358,United Kingdom,15.0,1,3,8
+542268,22777,glass cloche large,2,2011-01-27 08:30:00,8.5,15358,United Kingdom,17.0,1,3,8
+542268,22778,glass cloche small,4,2011-01-27 08:30:00,3.95,15358,United Kingdom,15.8,1,3,8
+542268,22435,set of 9 heart shaped balloons,12,2011-01-27 08:30:00,1.25,15358,United Kingdom,15.0,1,3,8
+542268,22423,regency cakestand 3 tier,1,2011-01-27 08:30:00,12.75,15358,United Kingdom,12.75,1,3,8
+542268,22502,picnic basket wicker small,4,2011-01-27 08:30:00,5.95,15358,United Kingdom,23.8,1,3,8
+542268,22501,picnic basket wicker large,2,2011-01-27 08:30:00,9.95,15358,United Kingdom,19.9,1,3,8
+542590,22960,jam making set with jars,2,2011-01-28 16:18:00,4.25,17920,United Kingdom,8.5,1,4,16
+542590,22777,glass cloche large,1,2011-01-28 16:18:00,8.5,17920,United Kingdom,8.5,1,4,16
+542590,79000,moroccan tea glass,24,2011-01-28 16:18:00,0.85,17920,United Kingdom,20.4,1,4,16
+542590,22626,black kitchen scales,1,2011-01-28 16:18:00,8.5,17920,United Kingdom,8.5,1,4,16
+542590,22969,homemade jam scented candles,12,2011-01-28 16:18:00,1.45,17920,United Kingdom,17.4,1,4,16
+542590,21034,rex cash+carry jumbo shopper,2,2011-01-28 16:18:00,0.95,17920,United Kingdom,1.9,1,4,16
+542591,84078A,set/4 white retro storage cubes ,3,2011-01-28 16:42:00,39.95,13089,United Kingdom,119.85000000000001,1,4,16
+C542593,22073,red retrospot storage jar,-10,2011-01-28 16:50:00,3.75,15549,United Kingdom,-37.5,1,4,16
+542595,22856,assorted easter decorations  bells,6,2011-01-30 10:19:00,1.25,14040,United Kingdom,7.5,1,6,10
+542595,48194,doormat hearts,1,2011-01-30 10:19:00,7.95,14040,United Kingdom,7.95,1,6,10
+542595,20685,doormat red retrospot,2,2011-01-30 10:19:00,7.95,14040,United Kingdom,15.9,1,6,10
+542595,48188,doormat welcome puppies,1,2011-01-30 10:19:00,7.95,14040,United Kingdom,7.95,1,6,10
+542595,21955,doormat union jack guns and roses,1,2011-01-30 10:19:00,7.95,14040,United Kingdom,7.95,1,6,10
+542595,48129,doormat topiary,1,2011-01-30 10:19:00,7.95,14040,United Kingdom,7.95,1,6,10
+542595,21259,victorian sewing box small ,3,2011-01-30 10:19:00,5.95,14040,United Kingdom,17.85,1,6,10
+542595,84406B,cream cupid hearts coat hanger,1,2011-01-30 10:19:00,3.25,14040,United Kingdom,3.25,1,6,10
+542595,85160B,black bird garden design mug,6,2011-01-30 10:19:00,1.25,14040,United Kingdom,7.5,1,6,10
+542595,22720,set of 3 cake tins pantry design ,1,2011-01-30 10:19:00,4.95,14040,United Kingdom,4.95,1,6,10
+542647,23230,wrap alphabet design,25,2011-01-31 11:46:00,0.42,18245,United Kingdom,10.5,1,0,11
+542647,22047,empire gift wrap,25,2011-01-31 11:46:00,0.42,18245,United Kingdom,10.5,1,0,11
+542648,22847,bread bin diner style ivory,4,2011-01-31 11:46:00,14.95,12476,Germany,59.8,1,0,11
+542667,20712,jumbo bag woodland animals,10,2011-01-31 12:16:00,1.95,17068,United Kingdom,19.5,1,0,12
+542667,85099F,jumbo bag strawberry,10,2011-01-31 12:16:00,1.95,17068,United Kingdom,19.5,1,0,12
+542673,22282,12 egg house painted wood,1,2011-01-31 12:18:00,12.75,14527,United Kingdom,12.75,1,0,12
+542673,22283,6 egg house painted wood,1,2011-01-31 12:18:00,7.95,14527,United Kingdom,7.95,1,0,12
+542678,21900,"key fob , shed",15,2011-01-31 12:21:00,0.65,14688,United Kingdom,9.75,1,0,12
+542678,21911,garden metal sign ,2,2011-01-31 12:21:00,1.65,14688,United Kingdom,3.3,1,0,12
+542708,22931,baking mould heart white chocolate,12,2011-01-31 13:07:00,2.55,17621,United Kingdom,30.599999999999998,1,0,13
+542709,22623,box of vintage jigsaw blocks ,6,2011-01-31 13:17:00,4.95,15144,United Kingdom,29.700000000000003,1,0,13
+542709,21891,traditional wooden skipping rope,12,2011-01-31 13:17:00,1.25,15144,United Kingdom,15.0,1,0,13
+542711,22554,plasters in tin woodland animals,1,2011-01-31 13:19:00,1.65,17894,United Kingdom,1.65,1,0,13
+542713,22646,ceramic strawberry cake money bank,12,2011-01-31 13:27:00,1.45,12668,Germany,17.4,1,0,13
+542713,22204,milk pan blue polkadot,4,2011-01-31 13:27:00,3.75,12668,Germany,15.0,1,0,13
+542715,22382,lunch bag spaceboy design ,10,2011-01-31 13:39:00,1.65,16403,United Kingdom,16.5,1,0,13
+542717,22297,heart ivory trellis small,1,2011-01-31 14:07:00,1.25,17580,United Kingdom,1.25,1,0,14
+542719,85194S,hanging spring flower egg small,1,2011-01-31 14:18:00,0.65,17619,United Kingdom,0.65,1,0,14
+542720,22421,lipstick pen fuschia,12,2011-01-31 14:35:00,0.42,12778,Netherlands,5.04,1,0,14
+542724,21041,red retrospot oven glove double,6,2011-01-31 14:59:00,2.95,16779,United Kingdom,17.700000000000003,1,0,14
+542708,22931,baking mould heart white chocolate,12,2011-01-31 13:07:00,2.55,17621,United Kingdom,30.599999999999998,1,0,13
+542709,22623,box of vintage jigsaw blocks ,6,2011-01-31 13:17:00,4.95,15144,United Kingdom,29.700000000000003,1,0,13
+542709,21891,traditional wooden skipping rope,12,2011-01-31 13:17:00,1.25,15144,United Kingdom,15.0,1,0,13
+542711,22554,plasters in tin woodland animals,1,2011-01-31 13:19:00,1.65,17894,United Kingdom,1.65,1,0,13
+542713,22646,ceramic strawberry cake money bank,12,2011-01-31 13:27:00,1.45,12668,Germany,17.4,1,0,13
+542713,22204,milk pan blue polkadot,4,2011-01-31 13:27:00,3.75,12668,Germany,15.0,1,0,13
+542715,22382,lunch bag spaceboy design ,10,2011-01-31 13:39:00,1.65,16403,United Kingdom,16.5,1,0,13
+542717,22297,heart ivory trellis small,1,2011-01-31 14:07:00,1.25,17580,United Kingdom,1.25,1,0,14
+542720,22421,lipstick pen fuschia,12,2011-01-31 14:35:00,0.42,12778,Netherlands,5.04,1,0,14
+542724,21041,red retrospot oven glove double,6,2011-01-31 14:59:00,2.95,16779,United Kingdom,17.700000000000003,1,0,14
+542735,22452,measuring tape babushka pink,6,2011-01-31 15:36:00,2.95,12681,France,17.700000000000003,1,0,15
+C542734,22169,family album white picture frame,-2,2011-01-31 15:36:00,8.5,14442,Channel Islands,-17.0,1,0,15
+542737,22496,set of 2 round tins dutch cheese,1,2011-01-31 15:52:00,2.95,15058,United Kingdom,2.95,1,0,15
+542741,21059,party invites dinosaurs,6,2011-01-31 16:02:00,0.85,17375,United Kingdom,5.1,1,0,16
+542777,85039A,set/4 red mini rose candle in bowl,12,2011-02-01 08:31:00,1.65,14911,EIRE,19.799999999999997,2,1,8
+542777,21733,red hanging heart t-light holder,12,2011-02-01 08:31:00,2.95,14911,EIRE,35.400000000000006,2,1,8
+542780,22294,heart filigree dove  small,24,2011-02-01 09:38:00,1.25,17675,United Kingdom,30.0,2,1,9
